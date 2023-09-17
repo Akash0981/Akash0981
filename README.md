@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akash0981
 - 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
