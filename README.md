@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Akash0981
 - 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning MERN Stack dev
+- 💞️ I’m looking to collaborate on mern projects
+- 📫 akash.911.2611.2@gmail.com
 
 <!---
 Akash0981/Akash0981 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
